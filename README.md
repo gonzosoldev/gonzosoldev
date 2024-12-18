@@ -10,7 +10,7 @@ I take great care in the experience, architecture, and code quality of the thing
 <p align="left" style="font-family: Brush Script MT"> 
 <a href="mailto:gonzosoldev@gmail.com"><img align="left" src="./assets/logo/email.svg" alt="Email" width="24px"/></a>
 <a href="https://t.me/gonzosoldev/"><img align="left" src="./assets/logo/telegram.svg" alt="Telegram" width="24px"/></a>
-</p>
+</p><br>
 
 ## Experienced Blockchain Networks
 
